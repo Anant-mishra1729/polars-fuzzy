@@ -11,3 +11,5 @@ Cargo.lock
 
 target/
 .github/
+
+.DS_Store

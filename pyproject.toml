@@ -41,6 +41,7 @@ features = ["pyo3/extension-module"]
 [tool.mypy]
 files = ["polars_fuzzy"]
 strict = true
+exclude = ["**/.DS_Store"]
 
 [[tool.mypy.overrides]]
 module = "polars.utils.udfs"

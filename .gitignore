@@ -1,0 +1,13 @@
+*.so
+*.pyc
+target
+venv
+.venv
+*.so
+*.dll
+*.pyd
+
+Cargo.lock
+
+target/
+.github/
